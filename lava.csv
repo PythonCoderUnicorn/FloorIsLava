@@ -1,0 +1,79 @@
+
+season, episode, group_name, group_genders, obstacle_1_survive, obstacle_1_fail, obstacle_1_pass, lava_challenge_win
+1, 1, None, FFM, 2, 1, true, true
+1, 1, None, MMM, 0, 3, false, false
+1, 1, None, MMF, 2, 1, true, false
+
+1, 2, Tennis Trio, MMM, 1, 2, true, false
+1, 2, Teachers, MMF, 2, 1, true, true
+1, 2, Little League Dads, MMM, 1, 2, true, false
+
+1, 3, Mama Boys, MMM, 1, 2, true, true
+1, 3, Triple Threat, MMF, 0, 3, false, false
+1, 3, Edutainers, MMF, 0, 3, false, false
+
+1, 4, The Doctors, MMF, 1, 2, true, false
+1, 4, The Nurses, FFF, 1, 2, true, false
+1, 4, Party Animals, MMM, 3, 0, true, true
+
+1, 5, Flight Attendants, MFF, 3, 0, true, false
+1, 5, Fierce Ladies on Fire, FFF, 2, 1, true, false
+1, 5, Total Package, MMM, 3, 0, true, true
+
+1, 6, Karaoke Crew, MMM, 1, 2, true, false
+1, 6, Alpha Betta Fish, MMM, 2, 1, true, true
+
+1, 7, The Bostonians, MMM, 0, 3, true, false
+1, 7, The Siblings, MMF, 2, 1, true, true
+1, 7, Tri Force Heroes, FFF, 1, 2, true, false
+
+1, 8, Battling Bros, MMM, 0, 3, false, false
+1, 8, Retail Co-Workers, MFF, 1, 2,  true, true
+
+1, 9, Basketballers, FF0, 0, 2, false, false
+1, 9, The Climbers, MM0, 2, 0, true, true
+1, 9, The Extinguishers, MM0, 1, 2, true, false
+
+1, 10, The Bros, MMM, 0, 3, false, false
+1, 10, SD Babes, FFF, 3, 0, true, true
+1, 10, Gain Squad, MMF, 3, 0, true, false
+
+2, 1, Stand Up Squad, MMM, 1, 2, true, false
+2, 1, Bad Datitude, MMM, 2, 2, true, true
+2, 1, Virzi Bros, MMM, 0, 3, false, false
+
+2, 2, The Kickballers, MMF, 2, 1, true, true
+2, 2, Barre Babes, FFF, 2, 1, true, false
+2, 2, Black Belts, MMM, 3, 3, true, false
+
+2, 3, Dad Bods, MMM, 2, 1, true, true
+2, 3, Moms of Steel, FFF, 0, 3, false, false
+2, 3, Bay Area Moms, FFF, 0, 3, false, false
+
+2, 4, Double Bogey Brigade, MMM, 2, 1, true, true
+2, 4, Foxy Sisters, FFF, 1, 2, true, false
+2, 4, Big Top Besties, MFF, 0, 3, false, false
+
+2, 5, Team Too Hot, MMM, 2, 1, true, true
+2, 5, Content Creators, MMM, 3, 0, true, false
+2, 5, Circle Up, MMF, 1, 2, true, false
+
+3, 1, The Family Campers, MMF, 1, 2, true, false
+3, 1, Good Genes, FFF, 1, 2, true, false
+3, 1, The Analysts, MMF, 3, 0, true, true
+
+3, 2, Fitness Fanatics, MMM, 2, 1, true, true
+3, 2, Latin Heat, MMM, 3, 0, true, false
+3, 2, Best Friends, MMF, 1, 2, true, false
+
+3, 3, Team Checkmate, MMF, 1, 2, true, false
+3, 3, LA Jitterbugs, MMF, 0, 3, false, true
+3, 3, Super Troops, FFF, 0, 3, false, false
+
+3, 4, The Cruise Crew, MMM, 0, 3, false, false
+3, 4, Team Bakers, FFF, 1, 2, true, false
+3, 4, The Mermaids, FFF, 1, 2, true, true
+
+3, 5, Zip Zap Zop, MMF, 1, 2, true, true
+3, 5, The Unstoppables, FFF, 0, 3, false, false
+3, 5, The Roomates, MMF, 0, 3, false, false
